@@ -1,8 +1,0 @@
-c:\users\harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.csprojResolveAssemblyReference.cache
-c:\users\harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.Properties.Resources.resources
-c:\users\harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.csproj.GenerateResource.Cache
-C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.exe
-C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.pdb
-C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.LIT_FRUIT.resources
-C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.exe
-C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.pdb
