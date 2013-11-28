@@ -1,0 +1,16 @@
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\bin\Release\ExcelHelper.exe
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\bin\Release\ExcelHelper.pdb
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.csprojResolveAssemblyReference.cache
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.LIT_FRUIT.resources
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.Properties.Resources.resources
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.csproj.GenerateResource.Cache
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.exe
+C:\Users\Harry\documents\visual studio 2012\Projects\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.pdb
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.exe
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.pdb
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\bin\Release\ExcelHelper.exe
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\bin\Release\ExcelHelper.pdb
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.csprojResolveAssemblyReference.cache
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.LIT_FRUIT.resources
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.Properties.Resources.resources
+F:\魏睿\Coding\Project\wuFruitMsgGrasper\ExcelHelper\ExcelHelper\ExcelHelper\obj\Release\ExcelHelper.csproj.GenerateResource.Cache
