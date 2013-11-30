@@ -55,7 +55,7 @@ fmapOutPath =  dirPath.to_s + "/../data/" "fruitTypeMap.rb"
 fmapOut = File.open(fmapOutPath,"w+:utf-8")
 fruits.each do |fruit|
 	fruit.namelist.each do |name|
-		fmapOut.puts "fruitMap[\"#{name}\"] = \"#{fruit.outname}\""
+		fmapOut.puts "$fruitMap[\"#{name}\"] = \"#{fruit.outname}\""
 	end
 	
 end
